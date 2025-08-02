@@ -53,7 +53,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBaaxAsZnWBsvrXy1Z68CNQi1OLJ3QhXNI',
+    apiKey: 'XXXAIzaSyBaaxAsZnWBsvrXy1Z68CNQi1OLJ3QhXNIXXX',
     appId: '1:537144924449:android:90e4d1574edca676dd8660',
     messagingSenderId: '537144924449',
     projectId: 'crop-disease-detection-33270',
